@@ -1,4 +1,4 @@
 package Proekt;
 
-public class Pickup extends Transport{
+public class Pickup  extends Transport{
 }
